@@ -1,16 +1,23 @@
-## Hi there 👋
+## About me
 
-<!--
-**binaryKaiser/binaryKaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm a student at Universidad Tecnológica de Panamá and a dedicated Computer Engineer
 
-Here are some ideas to get you started:
+My strengths are creativity, leadership, perseverance and quick learning abilities. I have a passion for contributing innovative ideas and turning them into reality. I also love videogame development and IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies and Tools
+
+- Languages: C#, Java, Python, Flutter, PHP, GDScript
+- Frameworks: Django
+- Container Technologies: Docker, Podman
+- Databases: MySQL, Sqlite
+
+### Recent Projects
+
+Among the many projects I'm working on, I'm currently developing my undergraduate thesis about Assisted hydroponics through the use of sensors with Raspberry PI. More info coming soon!
+
+### Where am I right now?
+
+- Entrepreneurship: I'm currently part of a small startup dedicated to maintenance and repairing of electronic devices, where I contribute as a software developer, technician and brand creator.
+- Freelance Work: Where I keep my skills sharp and continue in the path of self-learning
+
+
